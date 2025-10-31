@@ -3,10 +3,10 @@ This project shows how to create two S3 buckets and upload objects using the AWS
 
 # AWS S3 Bucket Demo (Free Tier)
 
-## 🎯 Objective
+##  Objective
 Create two Amazon S3 buckets and upload objects using the AWS Management Console (Free Tier).
 
-## 🪣 Steps to Perform
+##  Steps to Perform
 1. Sign in to the AWS Management Console.
 2. Open the **S3** service.
 3. Click **Create bucket** and name it `alice-bucket-1`.
@@ -17,14 +17,14 @@ Create two Amazon S3 buckets and upload objects using the AWS Management Console
 8. Do the same for `alice-bucket-2`.
 9. Verify both buckets contain uploaded objects.
 
-## 🎥 Video Demonstration
+##  Video Demonstration
 [Watch on YouTube](https://youtu.be/aK_IpTmF7Ys?si=9VpXOiT52gj0L_zV)
 
-## 🧠 Tools Used
+##  Tools Used
 - **AWS Management Console (Free Tier)**
 - **OBS Studio** for recording
 - **GitHub** for documentation
 - **YouTube** for video sharing
 
-## 👩‍💻 Author
+##  Author
 Alice Peter
